@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "design": {
+    "mode": "raised",
+    "adaptive": true,
+    "photoW": 60,
+    "photoH": 90,
+    "border": 15,
+    "base": 2.4,
+    "top": 1.2,
+    "spacer": 1.2,
+    "back": 1.6,
+    "radius": 8,
+    "color1": "#203e39",
+    "color2": "#f3c86a",
+    "font": "bold",
+    "items": [
+      {
+        "id": 1,
+        "kind": "pumpkin",
+        "size": 27,
+        "x": -39,
+        "y": -53,
+        "rotation": -15
+      },
+      {
+        "id": 2,
+        "kind": "ghost",
+        "size": 24,
+        "x": 40,
+        "y": -51,
+        "rotation": 10
+      },
+      {
+        "id": 3,
+        "kind": "cat",
+        "size": 23,
+        "x": -36,
+        "y": 52,
+        "rotation": 0
+      },
+      {
+        "id": 4,
+        "kind": "text",
+        "text": "BOO!",
+        "size": 14,
+        "x": 12,
+        "y": 52,
+        "rotation": 0
+      }
+    ]
+  }
+}
