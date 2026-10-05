@@ -8,3 +8,5 @@
 .quick-adjust{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:12px 0}.quick-adjust button{padding:10px 6px;border:1px solid #b4c4b8;border-radius:8px;background:#edf4ee;color:#203e39;font-weight:600}.quick-adjust button:last-child{grid-column:1/-1}#designCanvas{touch-action:none}
 
 .stage-top{flex-wrap:wrap;gap:8px}.view-tabs{flex-wrap:wrap}#backOptions{display:flex;gap:8px;align-items:center;margin:0}#backOptions[hidden]{display:none}#backOptions select{width:auto}
+
+.upload-artwork{width:100%;padding:14px;border:1px dashed #779684;border-radius:10px;background:#edf5ef;color:#203e39;font-weight:700;margin-top:12px}#artPreview{width:240px;height:240px;margin:12px auto;background:#fff;border:1px solid #ddd}#artPreview svg{width:100%;height:100%}#artworkDialog{max-width:480px;width:calc(100vw - 40px);max-height:85vh;overflow:auto}#artworkDialog button{padding:10px 18px;margin:8px 8px 0 0;border:1px solid #779684;border-radius:8px}#addArtwork{background:#203e39;color:white}
